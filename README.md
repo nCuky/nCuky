@@ -3,7 +3,8 @@ I'm Nadav, and I'm a software developer. I am very passionate about people, user
 
 I'm open to work! Here's [my CV](http://bit.ly/NCurielCV).
 
-### Skills 🎶
+
+#### 🎶 Skills
 - Backend & Infra
   - Object Oriented Programming, SQL, Python, Pandas, Relational DB, Gateway, OData, API services
 - SAP ERP
@@ -11,10 +12,18 @@ I'm open to work! Here's [my CV](http://bit.ly/NCurielCV).
 - Miscellaneous
   - Jira, Agile/Scrum, Git
 
-### I'm currently working on 🛠
+
+#### 🛠 I'm currently working on:
 - [Spotistics](https://github.com/nCuky/Spotistics) - Analysis & Statistics of your Spotify Listening History
 
 
+#### ☎ Contact me:
+- [Email me](mailto:Nadav.Curiel@gmail.com)
+- [LinkedIn (Nadav Curiel)](http://bit.ly/NCurielLI)
+- [GitHub (nCuky)](http://bit.ly/NCurielGH)
+- [Facebook (Nadav Cuky)](https://www.facebook.com/nadcu)
+- [My CV](http://bit.ly/NCurielCV)
+- Pronouns: He/Him
 
 <!--
 **nCuky/nCuky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -26,7 +35,5 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
