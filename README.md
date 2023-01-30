@@ -6,11 +6,11 @@ I'm Nadav, and I'm a software developer. I am very passionate about people, user
 
 #### 🎶 Skills
 - Backend & Infra
-  - Object Oriented Programming, SQL, Python, Pandas, Relational DB, Gateway, OData, API services
+  - Object Oriented Programming, SQL, Python, Pandas, Relational DB, Gateway, OData, API services, Java, C#
 - SAP ERP
   - SAP CRM & HR, ABAP, WebUI, UI5, OpenSQL, S/4HANA, Core Data Services
 - Miscellaneous
-  - Jira, Agile/Scrum, Git
+  - Jira, Agile/Scrum, Git, Bitbucket
 
 
 #### 🛠 I'm currently working on:
