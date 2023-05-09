@@ -18,7 +18,7 @@ I'm Nadav, and I'm a software developer. I am very passionate about people, user
 
 
 #### ☎ Contact me:
-- [Email me](mailto:Nadav.Curiel@gmail.com)
+- [Email me](mailto:me@nadcu.com)
 - [LinkedIn (Nadav Curiel)](http://bit.ly/NCurielLI)
 - [GitHub (nCuky)](http://bit.ly/NCurielGH)
 - [Facebook (Nadav Cuky)](https://www.facebook.com/nadcu)
