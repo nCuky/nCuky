@@ -1,8 +1,6 @@
 ### Hi there 👋
 I'm Nadav, and I'm a software developer. I am very passionate about people, user experience, data and details. I believe technology should be accessible, fun, informative and useful to everybody, and I want to help making it happen. I am also a musician, and I would like to use technology to better understand it and to create amazing and unique experiences with it.
 
-**I'm open to work!** Here's [my CV](http://bit.ly/NCurielCV).
-
 
 #### 🎶 Skills
 - Backend & Infra
